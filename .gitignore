@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+venv/
+*.ipynb_checkpoints
+
+# System Files
+.DS_Store 
