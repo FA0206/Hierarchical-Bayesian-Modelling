@@ -4,4 +4,6 @@ venv/
 *.ipynb_checkpoints
 
 # System Files
-.DS_Store 
+.DS_Store
+
+src/data/ 
