@@ -6,3 +6,6 @@ venv/
 # System Files
 .DS_Store
 
+reports/drafts/
+
+literature/
